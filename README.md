@@ -48,9 +48,9 @@ Update file paths and run scripts sequentially in the `scripts/` directory.
 
 ## Citation
 
-[Add manuscript citation here after publication]
+[manuscript citation after publication]
 
 ## Contact
 
 Muhammad Awais  
-[Add institutional email]
+[Institutional email]
